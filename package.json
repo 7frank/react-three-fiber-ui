@@ -15,6 +15,7 @@
     "yoga-layout-prebuilt": "1.9.6"
   },
   "devDependencies": {
+    "@types/react": "^17.0.29",
     "typescript": "3.8.3"
   },
   "scripts": {

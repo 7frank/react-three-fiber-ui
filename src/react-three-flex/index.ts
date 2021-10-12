@@ -1,4 +1,4 @@
 export * from "./Box";
 export * from "./Flex";
 export * from "./props";
-export { Axis } from "./util";
+export type { Axis } from "./util";
